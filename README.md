@@ -15,7 +15,7 @@ This is a simple Python banking system program that allows users to perform basi
 
 1. Run the program:
     ```bash
-    python banking_system.py
+    python main.py
     ```
 2. Follow the on-screen prompts to perform the following actions:
     - Deposit Money
